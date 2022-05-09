@@ -1,0 +1,95 @@
+
+
+div.bg-red {
+  background-color:#D1411E;
+}
+
+.order-btn {
+  right:30px;
+  bottom:30px;
+  color: white
+}
+
+.order-btn-outline {
+  background-color:white;
+  outline-color:yellow
+}
+
+
+.menu-btn {
+  left:30px;
+  bottom:30px;
+  color: white
+}
+
+h1.blacktitle {
+  font-family: 'impact', Sans-serif;
+  color: green;
+  font-size: 60px;
+  text-align:left;
+}
+
+h1.whitetitle {
+  font-family: 'impact', Sans-serif;
+  color: white;
+  font-size: 60px;
+
+}
+
+body {
+  font-family: 'impact', Sans-serif;
+  color: black;
+}
+
+h2.button{
+  font-family: 'impact', Sans-serif;
+  color: black;
+}
+
+h2.green2{
+  font-family: 'impact', Sans-serif;
+  color: green;
+}
+
+
+
+Body.white {
+  font-family: 'impact', Sans-serif;
+  color: white;
+}
+
+p.right {
+  font-family: 'impact', Sans-serif;
+  color: white;
+  text-align:right;
+}
+
+
+
+/* example content syntax */
+
+
+#navigation {
+  background-clor: red;
+  color: white
+}
+
+
+
+img.collumn {
+    width: 100%;
+    height: 100%;
+    object-fit: contain;
+}
+
+
+.navbar-dark .navbar-nav .nav-link.active, .navbar-dark .navbar-nav .show>.nav-link {
+    color: blue;
+}
+
+.nav {
+  font-family: 'impact', Sans-serif;
+  color: white;
+  text-align: center;
+
+}
