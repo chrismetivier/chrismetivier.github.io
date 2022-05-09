@@ -1,13 +1,14 @@
 
 
 div.bg-red {
-  background-color:#D1411E;
+  background-color:#FF4D00;
 }
 
 .order-btn {
   right:30px;
   bottom:30px;
-  color: white
+  color: black
+  font-family: 'impact', Sans-serif;
 }
 
 .order-btn-outline {
@@ -19,13 +20,13 @@ div.bg-red {
 .menu-btn {
   left:30px;
   bottom:30px;
-  color: white
+  color: grey
 }
 
 h1.blacktitle {
   font-family: 'impact', Sans-serif;
-  color: green;
-  font-size: 60px;
+  color: #36AA0D;
+  font-size: 70px;
   text-align:left;
 }
 
@@ -37,8 +38,9 @@ h1.whitetitle {
 }
 
 body {
-  font-family: 'impact', Sans-serif;
+  font-family: 'helvetica', Sans-serif;
   color: black;
+  background-color:#FFFEEB;
 }
 
 h2.button{
@@ -47,7 +49,7 @@ h2.button{
 }
 
 h2.green2{
-  font-family: 'impact', Sans-serif;
+  font-family: 'arial', Sans-serif;
   color: green;
 }
 
@@ -88,7 +90,7 @@ img.collumn {
 }
 
 .nav {
-  font-family: 'impact', Sans-serif;
+  font-family: 'Arial', Sans-serif;
   color: white;
   text-align: center;
 
