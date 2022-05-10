@@ -7,8 +7,16 @@ div.bg-red {
 .order-btn {
   right:30px;
   bottom:30px;
-  color: black
-  font-family: 'impact', Sans-serif;
+  color: yellow;
+  background-color:#FF4D00;
+
+}
+
+.green-btn {
+  right:30px;
+  bottom:30px;
+  color: white;
+  background-color:green;
 }
 
 .order-btn-outline {
@@ -20,7 +28,7 @@ div.bg-red {
 .menu-btn {
   left:30px;
   bottom:30px;
-  color: grey
+  color: white;
 }
 
 h1.blacktitle {
@@ -38,14 +46,14 @@ h1.whitetitle {
 }
 
 body {
-  font-family: 'helvetica', Sans-serif;
+  font-family: 'impact', Sans-serif;
   color: black;
   background-color:#FFFEEB;
 }
 
 h2.button{
   font-family: 'impact', Sans-serif;
-  color: black;
+  color: white;
 }
 
 h2.green2{
