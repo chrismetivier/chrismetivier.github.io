@@ -1,22 +1,27 @@
 
 
+
 div.bg-red {
   background-color:#FF4D00;
 }
+div.containerwhite{
+  background-color:white;
+}
 
 .order-btn {
+  font-family: 'Koulen', cursive;
   right:30px;
   bottom:30px;
-  color: yellow;
-  background-color:#FF4D00;
+  color: black;
+
 
 }
 
 .green-btn {
+  font-family: 'Koulen', cursive;
   right:30px;
   bottom:30px;
-  color: white;
-  background-color:green;
+  color: black;
 }
 
 .order-btn-outline {
@@ -26,51 +31,122 @@ div.bg-red {
 
 
 .menu-btn {
+  font-family: 'Koulen', cursive;
   left:30px;
   bottom:30px;
-  color: white;
+  color: black;
 }
 
 h1.blacktitle {
-  font-family: 'impact', Sans-serif;
+  font-family: 'Koulen', cursive;
   color: #36AA0D;
+  font-size: 60px;
+  text-align:center;
+}
+
+h1.blacktitlecenter {
+  font-family: 'Koulen', cursive;
+  color: #FF4D00;
   font-size: 70px;
-  text-align:left;
+  text-align:center;
 }
 
 h1.whitetitle {
-  font-family: 'impact', Sans-serif;
+  font-family: 'Koulen', cursive;
   color: white;
   font-size: 60px;
 
 }
 
-body {
+h2.price {
+  font-family: 'Koulen', cursive;
+  color: black;
+  font-size: 60px;
+  text-align:left;
+}
+
+h3.menuitem {
+  font-family: 'Koulen', cursive;
+  color: #36AA0D;
+  font-size: 30px;
+}
+
+h3.startorder {
+  font-family: 'Koulen', cursive;
+  color: ##FFFEEB;
+  font-size: 20px;
+  text-align:center;
+}
+
+h3.startor {
+  font-family: 'Nunito Sans', sans-serif;
+  color: #36AA0D;
+  font-size: 20px;
+  text-align:center;
+}
+
+h4{
+  font-family: 'Koulen', cursive;
+  color: white;
+  font-size: 25px;
+}
+
+h5 {
+  font-family: 'Koulen', cursive;
+  color: white;
+
+}
+
+h1.center{
   font-family: 'impact', Sans-serif;
+  color: green;
+  font-size: 70px;
+  text-align:center;
+}
+
+li.red{
+  background-color:#D7D7D7;
+}
+
+body {
+  font-family: 'Nunito Sans', sans-serif;
   color: black;
   background-color:#FFFEEB;
 }
 
+div.white {
+  background-color:white;
+}
+
+p.arial {
+  font-family: 'arial', Sans-serif;
+  color: black;
+}
+p.photo {
+  text-align:center;
+}
+
 h2.button{
-  font-family: 'impact', Sans-serif;
+  font-family: 'Koulen', cursive;
   color: white;
 }
 
 h2.green2{
-  font-family: 'arial', Sans-serif;
+  font-family: 'Koulen', cursive;
   color: green;
 }
 
 
 
+
+
 Body.white {
-  font-family: 'impact', Sans-serif;
+  font-family: 'Nunito Sans', sans-serif;
   color: white;
 }
 
 p.right {
   font-family: 'impact', Sans-serif;
-  color: white;
   text-align:right;
 }
 
